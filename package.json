@@ -1,0 +1,21 @@
+{
+  "name": "@iamvik/api-throttle",
+  "version": "1.0.0",
+  "description": "Add a call limit to your API for a given time.",
+  "repository": "viktech2/api-throttle",
+  "main": "index.js",
+  "keywords": [
+    "api-throttle",
+    "RESTAPI",
+    "node-cache",
+    "npm"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vikash S",
+  "license": "ISC",
+  "dependencies": {
+    "node-cache": "^4.2.0"
+  }
+}
