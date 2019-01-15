@@ -2,7 +2,7 @@
 
 Add a call limit to your API for a given time.
 
-## Install
+## Installation
 
 ```
 $ npm install @iamvik/api-throttle
